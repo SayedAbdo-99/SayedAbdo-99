@@ -66,9 +66,9 @@
 
 
 ### 👉 Software & Tools & Framworks
- 
+ <h3>>>>Microsoft</h3>
 <p align="center">
-    <h3>>>>Microsoft</h3>
+
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
