@@ -4,10 +4,10 @@
 
   ## :sassy_man:  About me
   - :school: I am a `Software Engineer` and `Researcher` graduated from Faculty of Computer Sciences and Artificial Intelligence
-  - :technologist: I love using Software solutions and problem solving
-  - :student: I’m currently learning: `Deep Learnig` and `Software Engineering`.
+  - :technologist: I love using programming and problem solving
+  - :student: I’m currently learning: `Deep Learnig` and `DevOps`.
   - :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/s-a-sayed99/overlay/1635487939199/single-media-viewer/).
-  - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a Software company, in a creative and dynamic work environment, and cooperative work team.
+  - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a `Software company`, in a creative and dynamic work environment, and cooperative work team.
   <br>
 
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
