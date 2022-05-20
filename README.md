@@ -81,9 +81,10 @@
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=plastic&logo=unity&logoColor=#FFFFFF"></a>
   &emsp;
     <a href="#"><img alt=".net" src="https://img.shields.io/badge/Framework-342D7E.svg?style=plastic&logo=.net&logoColor=white"></a>
-
+</p>
     <br>
-
+    
+<p align="center">
 <h3 align="center">Python and AI</h3>
   &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-FFFF00.svg?style=plastic&logo=Google%20Colab&logoColor=black"></a>
