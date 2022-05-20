@@ -71,6 +71,8 @@
 <p align="center">
   &emsp;
     >>>Microsoft: 
+	</P>
+	<p align="center">
   &emsp;&emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
