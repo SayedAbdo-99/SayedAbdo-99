@@ -81,11 +81,10 @@
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=plastic&logo=unity&logoColor=#FFFFFF"></a>
   &emsp;
     <a href="#"><img alt=".net" src="https://img.shields.io/badge/Framework-342D7E.svg?style=plastic&logo=.net&logoColor=white"></a>
+
 </p>
-    <br>
-    
 <p align="center">
-<h3 align="center">Python and AI</h3>
+<h3 >>>>Python and AI</h3>
   &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-FFFF00.svg?style=plastic&logo=Google%20Colab&logoColor=black"></a>
   &emsp;
@@ -107,34 +106,37 @@
   &emsp;
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+</p>
 
-<h3 align="center">Database</h3>
+<p align="center">
+<h3>>>>Database</h3>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
-    <br>
-
-<h3 align="center">SDLC & UML Design Tools  </h3>
+<p align="center">
+<h3>>>>SDLC & UML Design Tools  </h3>
   &emsp;
   <a href="#"><img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=plastic&logo=Microsoft%20Visio&logoColor=white"></a>
   &emsp;
   <a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://pbs.twimg.com/profile_images/893323821867909121/XvwBWoL7_400x400.jpg" alt="Visual Paradigm" width="40" height="40"/> </a>
-    <br>
+</p>
 
-<h3 align="center">Design </h3>
+<p align="center">
+<h3>`>>>Design` </h3>
   &emsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   &emsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-   
-    <br>
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>   
+</p>
 
-<h3 align="center">Other Tools </h3>
+<p align="center">
+<h3>`>>>Other Tools` </h3>
   &emsp;
     <a href="#"><img alt="Prezi" src="https://img.shields.io/badge/Prezi-3181FF.svg?style=plastic&logo=Prezi&logoColor=white"></a>
   &emsp;
@@ -144,7 +146,6 @@
   &emsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
- 
 </p>
 
   
