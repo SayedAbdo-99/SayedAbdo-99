@@ -69,7 +69,7 @@
 ### 👉 Software & Tools & Framworks
 
 <p align="center">
-  <h3> Microsoft </h3> 
+  <h3> >>>Microsoft </h3> 
 </P>
 <p align="center">
 &emsp;
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-    <h3> Python and AI </h3> 
+    <h3> >>>Python and AI </h3> 
 </P>
 <p align="center">
 &emsp;
@@ -115,7 +115,7 @@
 </p>
 
 <p align="center">
-   <h3> Database </h3> 
+   <h3> >>>Database </h3> 
 </P>
 <p align="center">
  &emsp;
@@ -128,7 +128,7 @@
 
 
 <p align="center">
-    <h3> SDLC & UML Design Tools </h3> 
+    <h3> >>>SDLC & UML Design Tools </h3> 
 </P>
 
 <p align="center">
@@ -141,7 +141,7 @@
 
 
 <p align="center">
-    <h3> Design </h3> 
+    <h3> >>>Design </h3> 
 </P>
 <p align="center">
 &emsp;
@@ -153,7 +153,7 @@
 </p>
 
 <p align="center">
-    <h3> Other Tools </h3> 
+    <h3> >>>Other Tools </h3> 
 </P>
 <p align="center">
 &emsp;
