@@ -57,7 +57,8 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+  </a>
+  &emsp; 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a> 
@@ -66,10 +67,11 @@
 
 
 ### 👉 Software & Tools & Framworks
+ 
 <p align="center">
   &emsp;
-  >>`Microsoft`
-  &emsp;
+    >>>Microsoft: 
+  &emsp;&emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -84,8 +86,9 @@
 
 </p>
 <p align="center">
-<h3 >>>>Python and AI</h3>
   &emsp;
+  >>>Python and AI:
+  &emsp;&emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-FFFF00.svg?style=plastic&logo=Google%20Colab&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-FFFFFF.svg?style=plastic&logo=anaconda&logoColor=green"></a>
@@ -109,16 +112,20 @@
 </p>
 
 <p align="center">
-<h3>>>>Database</h3>
+  &emsp;
+   >>>Database:
+  &emsp;&emsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  &emsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
-<h3>>>>SDLC & UML Design Tools  </h3>
   &emsp;
+  >>>SDLC & UML Design Tools:
+  &emsp;&emsp;
   <a href="#"><img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=plastic&logo=Microsoft%20Visio&logoColor=white"></a>
   &emsp;
   <a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> 
@@ -126,8 +133,9 @@
 </p>
 
 <p align="center">
-<h3>`>>>Design` </h3>
   &emsp;
+  >>>Design:
+  &emsp;&emsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   &emsp;
@@ -136,12 +144,17 @@
 </p>
 
 <p align="center">
-<h3>`>>>Other Tools` </h3>
   &emsp;
+  >>>Other Tools:
+  &emsp;&emsp;
     <a href="#"><img alt="Prezi" src="https://img.shields.io/badge/Prezi-3181FF.svg?style=plastic&logo=Prezi&logoColor=white"></a>
   &emsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+   </a>
+  &emsp;
+  <a href="https://erpnext.com/" target="_blank" rel="noreferrer">
+    <img src="https://blog.anybox.fr/content/images/2019/06/erpnext-logo.jpg" alt="ERPNext" width="40" height="40"/> 
    </a>
   &emsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
