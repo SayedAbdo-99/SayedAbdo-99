@@ -16,7 +16,7 @@
 - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a `Software company`, in a creative and dynamic work environment, and cooperative work team.
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://cdn.dribbble.com/users/707812/screenshots/3834870/loader-dribbble.gif" width="30px"> Connect with me
 <p align="center">
   <a href="mailto:Eng.S.A.Sayed.99@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/SayedAbdo-99"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
