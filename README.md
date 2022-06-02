@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SayedAbdo-99/SayedAbdo-99/blob/main/ForMe.png"/>
+  <img src="https://github.com/SayedAbdo-99/SayedAbdo-99/blob/main/ForMe.png" width="600" height="550"/>
 </p>
 
 <br>
